@@ -1,0 +1,13 @@
+.bar {
+  background-color: black;
+  width: 10px;
+  margin: 0 1px;
+  margin: 2px;
+}
+
+.red {
+  background-color: red !important;
+}
+.blue {
+  background-color: blue;
+}
